@@ -53,12 +53,12 @@ Understand the key contributors to mortality rates.
 ### **Trend Analysis**:.A line plot that analyze trends in child and infant mortality rates over the years   
   - Fluctuations in Under-Five Mortality Rate Peaks in 2003 (5.65) and 2008 (6.20) and Significant drops in 2004 (0.77) and 2011 (0.58).
   - Infant Deaths show Sharp spikes in 2003 (90,615) and 2008 (78,531) and Gradual decline observed from 2009 to 2011.
-    ![](lineplot.jpg)
+    ![](lineplotUI.jpg)
     
 ### Analysis of How Mortality Rates Have Changed Over the Years
   - There is an inconsistent trend in the average mortality rate over time, with some years showing sharp increases (e.g., 2003, 2008) and others showing declines (e.g., 2004, 2010).
  - The average mortality rate has generally declined toward the later years of the timeline (e.g., 2011 shows the lowest value).
-   
+   ![](Av_mortality_rate.png)
 ### **Regional Disparities**
   - Sierra Leone, Nigeria, and Central African Republic exhibit the highest under-fifteen mortality rates, with Sierra Leone topping the list.
   - Countries like Sierra Leone, Nigeria, and Central African Republic significantly have the highest under-five mortality rates
@@ -73,7 +73,7 @@ Understand the key contributors to mortality rates.
 ### Bar Plot For Bottom 10 Countries with the Lowest Healthcare Coverage
    - Countries like Sierra Leone, Tajikistan, and Zimbabwe have the lowest healthcare coverage percentages, with Sierra Leone at the very bottom.
    - The healthcare coverage in these countries ranges from near 0% to around 4%.
-     ![]()
+     ![](Lowestwithhealthcare.png)
 
 ### Illustrated Relationships Between Mortality Rates and Births Attended by Skilled Health Staff
    - There is a clear inverse relationship between the percentage of births attended by skilled health staff and under-15 mortality rates.
