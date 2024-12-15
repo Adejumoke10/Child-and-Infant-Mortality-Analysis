@@ -139,7 +139,7 @@ For any questions or collaboration inquiries, feel free to reach out.
 - **Atanada Adejumoke**: 
 [My Github Profile](https://github.com/Adejumoke10)
 - **Regonet Global**: 
-[Regonet Email]()
+[Regonet Website](regonetglobal.com)
 - **Tutors**:
 [Mr Dayo Dada Github Profile](https://github.com/Deewhy254) and
 [Mr. David's GitHub Link](github)
