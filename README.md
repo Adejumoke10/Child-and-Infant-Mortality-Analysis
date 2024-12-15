@@ -142,7 +142,7 @@ For any questions or collaboration inquiries, feel free to reach out.
 [Regonet Website](https://regonetglobal.com)
 - **Tutors**:
 [Mr Dayo Dada Github Profile](https://github.com/Deewhy254) and
-[Mr. David's GitHub Link](github)
+[Mr. David GitHub Profile](github)
 
 
 
