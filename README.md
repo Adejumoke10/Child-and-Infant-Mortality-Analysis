@@ -47,28 +47,45 @@ Understand the key contributors to mortality rates.
 3. **Images**:
    - Plots and visualizations are stored in the `images/` directory.
  --- 
-## Analysis and Key Findings
+## Analysis and Visualizations
 
-1. ### Exploratory Data Analysis (EDA)
-- **Trend Analysis**:
-  A line plot that analyze trends in child and infant mortality rates over the years and bar plot highlighted the steady decline in under-five and 
-   under-fifteen mortality rates from 2001 to 2011.
-  
-- **Regional Disparities**: Countries such as Sierra Leone, Nigeria, and Central African Republic showed significantly higher mortality rates.
-  
-2. ### Correlation Insights
+### Exploratory Data Analysis (EDA)
+### **Trend Analysis**:.A line plot that analyze trends in child and infant mortality rates over the years   
+  - Fluctuations in Under-Five Mortality Rate Peaks in 2003 (5.65) and 2008 (6.20) and Significant drops in 2004 (0.77) and 2011 (0.58).
+  - Infant Deaths show Sharp spikes in 2003 (90,615) and 2008 (78,531) and Gradual decline observed from 2009 to 2011.
+    ![](lineplot.jpg)
+    
+### Analysis of How Mortality Rates Have Changed Over the Years
+  - There is an inconsistent trend in the average mortality rate over time, with some years showing sharp increases (e.g., 2003, 2008) and others showing declines (e.g., 2004, 2010).
+ - The average mortality rate has generally declined toward the later years of the timeline (e.g., 2011 shows the lowest value).
+   
+### **Regional Disparities**
+  - Sierra Leone, Nigeria, and Central African Republic exhibit the highest under-fifteen mortality rates, with Sierra Leone topping the list.
+  - Countries like Sierra Leone, Nigeria, and Central African Republic significantly have the highest under-five mortality rates
+  - Nigeria leads with the highest infant deaths, followed by Bangladesh and Pakistan.
+  - Nigeria leads with the highest maternal deaths, followed by Bangladesh and Pakistan,Sub-Saharan Africa dominates the list, highlighting regional healthcare challenges while China has notable maternal deaths, likely due to its large population.
+   
+### Percentage Distribution of Healthcare Coverage Across Countries.
+   - Most countries in the dataset report full health insurance coverage, which might correlate with better health outcomes.
+   - Many countries have partial or no health insurance coverage, possibly correlating with higher mortality rates.
+   ![Maternal Deaths](healthcare_coverage.png)
+
+### Bar Plot For Bottom 10 Countries with the Lowest Healthcare Coverage
+   - Countries like Sierra Leone, Tajikistan, and Zimbabwe have the lowest healthcare coverage percentages, with Sierra Leone at the very bottom.
+   - The healthcare coverage in these countries ranges from near 0% to around 4%.
+     ![]()
+
+### Illustrated Relationships Between Mortality Rates and Births Attended by Skilled Health Staff
+   - There is a clear inverse relationship between the percentage of births attended by skilled health staff and under-15 mortality rates.
+   - Countries or regions with higher rates of skilled birth attendance tend to have significantly lower under-15 mortality rates.
+   - Over the years (2002–2010), improvements in skilled birth attendance are evident, especially as data points concentrate toward higher percentages and lower 
+     mortality rates.
+     ![Mortality vs Healthcare](scatterplot.png)
+
+### Factors Most Correlated with Under-15 Mortality Rate
 - Strong positive correlation between under-five and under-fifteen mortality rates.
 - Negative correlation between skilled birth attendance and mortality rates, emphasizing the importance of accessible healthcare.
-  
-3. ### Key Visualizations
-- **Heatmap**: Showcased correlations between variables, identifying significant relationships.
-   ![Correlation Heatmap](heatplot.png)
-
-- **Bar Charts**: Highlighted percentage distribution of Healthcare Coverage across countries.
-   ![Maternal Deaths](healthcare_coverage.png)
-   
-- **Scatter Plots**: Illustrated relationships between mortality rates and healthcare metrics.
-   ![Mortality vs Healthcare](scatterplot.png)
+  ![Correlation Heatmap](heatplot.png)
 ---
 
 ## Limitations
