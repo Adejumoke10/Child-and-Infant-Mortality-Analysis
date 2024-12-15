@@ -59,14 +59,14 @@ Understand the key contributors to mortality rates.
 - Explored correlations between mortality rates and healthcare factors.
 
 ### 4. Data Visualization
-- Created heatmaps, bar plots, and pie charts to illustrate key findings.
+- Created heatmaps, bar plots, scatter plot and lineplots to illustrate key findings.
   
 ---
 
 ## Files in the Repository
 1. **Jupyter Notebooks**:
    - `1_handling_missing_values.ipynb`: Data cleaning and handling missing values.
-   - `2_merging_and_visualization.ipynb`: Merging datasets and generating visualizations.
+   - `2_merging_and_visualization.ipynb(1)`: Merging datasets and generating visualizations.
 
 2. **Data Files**:
    - `merged_cleaned_data.csv`: The cleaned and merged dataset used for analysis.
