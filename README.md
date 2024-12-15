@@ -5,6 +5,18 @@
 ## Introduction
 This project examines child and infant mortality data across various countries, with a focus on key factors influencing mortality rates, trends over time, and the effectiveness of healthcare interventions. Through data cleaning, merging, and analysis, the project provides insights into the state of child and infant health across different countries.
 
+## Table of Contents
+1. [Problems Solved](problems-solved)
+1. [Project Context](project-context)
+3. [Workflow and Key Steps](#workflow-and-key-steps)
+4. [Results and Key Insights](#results-and-key-insights)
+5. [Repository Structure](#repository-structure)
+6. [How to Install and Run the Project](#how-to-install-and-run-the-project)
+7. [How to Use the Project](#how-to-use-the-project)
+8. [Acknowledgements](acknowledgements)
+9. [Conclusion and Recommendations](conclusion-and-recommendations)
+10. [Contact](contact)
+
 ## Problems Solved
 
 1. Cleaning and preprocessing of eight separate datasets.
@@ -20,7 +32,7 @@ Child and infant mortality remain significant challenges in Africa, driven by va
 Understand the key contributors to mortality rates.
 - Assess the impact of immunization and healthcare initiatives.
 - Identify actionable insights for reducing mortality.
-- The project involved cleaning, merging, and analyzing datasets to generate meaningful visualizations and recommendations.
+- The project involved cleaning and merging eight datasets into a comprehensive file, `**merged_cleaned_data.csv** to generate meaningful analysis, visualizations and recommendations.
 - This analysis is part of a training project undertaken as a trainee at Regonet Global. The datasets were provided by my tutor, Mr. Dayo Dada, as the final project of the program.
 
 ## Skills Demonstrated
@@ -34,6 +46,33 @@ Understand the key contributors to mortality rates.
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Development Environment**: Jupyter Notebook
+
+## Datasets Used
+1. **Dataset 1**: Child mortality rates by country.
+2. **Dataset 2**: Maternal deaths.
+3. **Dataset 3**: Immunization rates.
+4. **Dataset 4**: Healthcare coverage statistics.
+5. **Dataset 5**: Income levels by country.
+6. **Dataset 6**: Skilled birth attendance.
+7. **Dataset 7**: Infant deaths.
+8. **Dataset 8**: Major causes of death in children under five.
+
+## Steps Taken
+### 1. Data Cleaning
+- Removed duplicates and handled missing values.
+- Standardized column names for consistency.
+
+### 2. Data Merging
+- Combined the eight datasets into `merged_cleaned_data.csv`.
+- The merged dataset covers 91 unique countries between the years 2001 and 2011.
+
+### 3. Exploratory Data Analysis
+- Investigated trends and patterns in child and infant mortality.
+- Explored correlations between mortality rates and healthcare factors.
+
+### 4. Data Visualization
+- Created heatmaps, bar plots, and pie charts to illustrate key findings.
+  
 ---
 
 ## Files in the Repository
@@ -109,10 +148,12 @@ I would like to express my gratitude to Regonet Global for the opportunity to un
 
 ## Contact
 For any questions or collaboration inquiries, feel free to reach out.
-- **Atanda Adejumoke**: [](https://github.com/Adejumoke10)
-- **Regonet Global**: [Regonet Global GitHub](#)
-- **Mr. Dayo Dada**: [](http://github.com/Deewhy254)
-- **Mr. David**: [GitHub Profile](#)
+- **Name**: [Atanda Adejumoke]
+- **GitHub**: [https://github.com/Adejumoke10]
+- **Regonet Global**: [Regonet GitHub Link]
+- **Tutors**:
+  **Mr Dayo Dada**:[https://github.com/Deewhy254]
+  **Mr David**: [Mr. David's GitHub Link]
 
 
 
