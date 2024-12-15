@@ -136,12 +136,13 @@ I would like to express my gratitude to Regonet Global for the opportunity to un
 
 ## Contact
 For any questions or collaboration inquiries, feel free to reach out.
-- **Atanada Adejumoke**
-- **GitHub**: [https://github.com/Adejumoke10](github)
-- **Regonet Global**: [Regonet GitHub Link]
+- **Atanada Adejumoke**: 
+[My Github Profile](https://github.com/Adejumoke10)
+- **Regonet Global**: 
+[Regonet Email]()
 - **Tutors**:
-- **Mr Dayo Dada**:[https://github.com/Deewhy254](github)
-- **Mr David**: [Mr. David's GitHub Link](github)
+[Mr Dayo Dada Github Profile](https://github.com/Deewhy254) and
+[Mr. David's GitHub Link](github)
 
 
 
