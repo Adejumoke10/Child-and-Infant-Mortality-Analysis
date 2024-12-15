@@ -5,18 +5,6 @@
 ## Introduction
 This project examines child and infant mortality data across various countries, with a focus on key factors influencing mortality rates, trends over time, and the effectiveness of healthcare interventions. Through data cleaning, merging, and analysis, the project provides insights into the state of child and infant health across different countries.
 
-## Table of Contents
-1. [Problems Solved](problems-solved)
-1. [Project Context](project-context)
-3. [Workflow and Key Steps](#workflow-and-key-steps)
-4. [Results and Key Insights](#results-and-key-insights)
-5. [Repository Structure](#repository-structure)
-6. [How to Install and Run the Project](#how-to-install-and-run-the-project)
-7. [How to Use the Project](#how-to-use-the-project)
-8. [Acknowledgements](acknowledgements)
-9. [Conclusion and Recommendations](conclusion-and-recommendations)
-10. [Contact](contact)
-
 ## Problems Solved
 
 1. Cleaning and preprocessing of eight separate datasets.
@@ -148,12 +136,12 @@ I would like to express my gratitude to Regonet Global for the opportunity to un
 
 ## Contact
 For any questions or collaboration inquiries, feel free to reach out.
-- **Name**: [Atanda Adejumoke]
-- **GitHub**: [https://github.com/Adejumoke10]
+- **Atanada Adejumoke**
+- **GitHub**: [https://github.com/Adejumoke10](github)
 - **Regonet Global**: [Regonet GitHub Link]
 - **Tutors**:
-  **Mr Dayo Dada**:[https://github.com/Deewhy254]
-  **Mr David**: [Mr. David's GitHub Link]
+- **Mr Dayo Dada**:[https://github.com/Deewhy254](github)
+- **Mr David**: [Mr. David's GitHub Link](github)
 
 
 
