@@ -118,7 +118,7 @@ Understand the key contributors to mortality rates.
 ## Limitations
 1. **Data Coverage**: The dataset only includes data from 2001 to 2011, excluding more recent trends.
 2. **Data Completeness**: Missing values in some datasets may impact the accuracy of the analysis.
-3. **Causation vs Correlation**: While correlations were identified, causative relationships could not be established due to the scope of the project.
+
 
 ## Conclusion
 
