@@ -91,6 +91,7 @@ Understand the key contributors to mortality rates.
   - Countries like Sierra Leone, Nigeria, and Central African Republic significantly have the highest under-five mortality rates
   - Nigeria leads with the highest infant deaths, followed by Bangladesh and Pakistan.
   - Nigeria leads with the highest maternal deaths, followed by Bangladesh and Pakistan,Sub-Saharan Africa dominates the list, highlighting regional healthcare challenges while China has notable maternal deaths, likely due to its large population.
+  ![](barplot4.png)
    
 ### Percentage Distribution of Healthcare Coverage Across Countries.
    - Most countries in the dataset report full health insurance coverage, which might correlate with better health outcomes.
@@ -142,7 +143,7 @@ For any questions or collaboration inquiries, feel free to reach out.
 [Regonet Website](https://regonetglobal.com)
 - **Tutors**:
 [Mr Dayo Dada Github Profile](https://github.com/Deewhy254) and
-[Mr. David GitHub Profile](github)
+[Mr. David GitHub Profile](https://github.com/davotheanalyst)
 
 
 
